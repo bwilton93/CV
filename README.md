@@ -15,7 +15,7 @@ The ability to create anything you can imagine is what excites me most about tec
 
 ## Work Experience
 
-**Company Name** (March 2019 - April 2023)  
+**Dusted Design** (March 2019 - April 2023)  
 _Marketing Data Analyst_
 
 - Creating and implementing a web scraper for a large data project using Python and various libraries including Selenium. This project gathered data over 30+ metrics across a list of 500+ companies and then evaluated each company to rank them in a leaderboard based on business needs.
