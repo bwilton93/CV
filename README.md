@@ -48,7 +48,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2023 - June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -57,11 +57,15 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Portsmouth (September 2017 - July 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Digital Marketing
+- Pass
+
+#### University of Portsmouth (September 2011 - July 2015)
+
+- BEng Mechanical Engineering
+- 2:2
 
 #### Any other qualifications
 
@@ -69,4 +73,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Avid musician, player of both guitar and drums
+- Rock climbing, specifically bouldering. I do this 3 times a week, most weeks.
+- Skiing & snowboarding
+- Internet livestreaming - I livestream gameplay on Twitch.tv when I have downtime from my other hobbies
