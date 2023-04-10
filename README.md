@@ -1,25 +1,25 @@
 ## Barney Wilton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm the person found at the intersection between active life and tech. I enjoy playing guitar and bouldering, a rock climbing sub-discipline, in my spare time. Along with a touch of gaming and exploring new tech.
+
+So far I have spent time creating small games using Unity and C#, along with working towards getting started with Makers Academy.
+
+The ability to create anything you can imagine is what excites me most about tech. Waking up, having an idea, and creating the idea is a source of pure joy.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **placeholder**            | A webapp to do x. | React, Jest, etc. |
+| **placeholder** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Company Name** (March 2019 - April 2023)  
+_Marketing Data Analyst_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Managing interns - making sure work was carried out to a high standard and meeting deadlines.
+- Creating and implementing a web scraper for a large data project using Python and various libraries including Selenium. This project gathered data over 30+ metrics across a list of 500+ companies and then evaluated each company to rank them in a leaderboard based on business needs.
 
 ## Skills
 
