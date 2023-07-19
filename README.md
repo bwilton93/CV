@@ -6,6 +6,27 @@ So far I have spent time creating small games using Unity and C#, along with wor
 
 The ability to create anything you can imagine is what excites me most about tech. Waking up, having an idea, and creating the idea is a source of pure joy.
 
+
+---- My profile here ----
+
+Since finishing University I have been working within tech in various roles, starting in digital marketing and working my way into data analytics. While this was very fulfilling I couldn't help but think there was something better out there for me.
+
+I began programming in my spare time during the first covid lockdown. Finding that I had a strong sense of logic and got a lot of enjoyment out of solving all the intricate, unique problems that could arise.
+
+The endless possibilities that programming and tech bring have led to many nights of descending into rabbit holes and discovering new things I'd never even considered before.
+
+After completing my time at Makers Academy, my goal is to change into a career in programming and to help create solutions to problems that the world may not even know exist yet.
+
+---- Grammarly AI improved version ----
+
+After completing my studies at university, I ventured into the tech industry in various capacities, beginning with digital marketing and eventually transitioning into data analytics. Despite finding these roles fulfilling, I couldn't shake the feeling that there was something better out there for me.
+
+During the first wave of the COVID-19 pandemic, I took up programming as a hobby during my downtime. I discovered that I have a strong sense of logic and derive immense pleasure from solving intricate, unique problems.
+
+The seemingly limitless possibilities presented by programming and technology have led me down many rabbit holes, uncovering new ideas and concepts that I never even knew existed.
+
+My ultimate aim is to pursue a career in programming and use my skills to develop solutions to problems that society may not have even recognized yet.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
