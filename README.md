@@ -71,7 +71,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Makers Academy (April 2023 - June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -97,4 +97,3 @@ That in some arguable way make you a better software developer or well-rounded p
 - Avid musician, player of both guitar and drums
 - Rock climbing, specifically bouldering. I do this 3 times a week, most weeks.
 - Skiing & snowboarding
-- Internet livestreaming - I livestream gameplay on Twitch.tv when I have downtime from my other hobbies
