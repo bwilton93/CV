@@ -12,10 +12,33 @@ After completing my time at Makers Academy, my goal is to change into a career i
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Gig Guru - Music event recommendations https://github.com/aliceswood/gig-guru ** | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
-| **placeholder** | A webapp to do y. | Ruby              |
+| Gig Guru - Music event recommendations https://github.com/aliceswood/gig-guru | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
+| Acebook - Facebook clone https://github.com/cshjp/acebook-team-earth | A mern stack Facebook clone. Users could sign up for accounts, post updates to a feed, edit their own posts and delete their own posts. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
+| Makersbnb - Airbnb clone https://github.com/bwilton93/shrekbnb | An Airbnb clone built using Ruby and PostgreSQL. Utilising RSpec to carry out both unit and integration tests. Users can sign up, post property listings with available dates, and select dates from other available properties. | Ruby, RSpec, PostgreSQL, Git, GitHub |
 
 ## Work Experience
+
+Makers Academy - April 2023 - July 2023
+Working in a team to create a music suggestion web application using the MERN stack. Developing familiarity with React.js and Javascript principles and building on this familiarity to create a feature-full web application.
+Key responsibilities:
+Fetching Ticketmaster API data and displaying on the front end through react components
+Handling complex merge conflicts when pulling multiple development branches into one branch
+User account creation and log-in authentication in the back end
+
+Dusted Design, London — Digital Marketing Analyst
+March 2022 - April 2023
+Creating and maintaining a benchmark system that ranks companies within a sector based on their digital presence, including social media and SEO activities.
+Using Python to scrape websites for relevant data to be implemented into the benchmark system.
+Analysing digital marketing performance using SEO tools such as SEMRush, Moz, Google Analytics, and Google Search Console.
+Researching and creating content briefs for supplied key topics.
+
+Dusted Design, London — Digital Content Officer / Digital Marketing Executive
+March 2019 - March 2023
+Ensuring all content is integrated into sites appropriately, with high attention to detail to make sure there are no mistakes or issues with spelling and formatting.
+Creating, monitoring, and updating ad campaigns through Google AdWords and reporting on the results of these ad campaigns.
+Managing SEO activities with Moz, Google Analytics, SEMRush, and Google Search Console.
+
+
 
 **Dusted Design** (March 2019 - April 2023)  
 _Marketing Data Analyst_
