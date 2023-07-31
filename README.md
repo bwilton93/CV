@@ -59,9 +59,6 @@ My dissertation dealt with deflection in carbon fibre shafts when exposed to var
 The objective was to design an optimal carbon fibre structure to improve a golf player's swing.
 Ultimately the project did not achieve any improvement on the existing design, but I learned a lot about how carbon fibre behaves under load.
 
-#### Any other qualifications
-
-
 ## Hobbies
 
 - All things guitar. Currently in the process of forming a band with some of my friends and looking forward to the challenges this may pose. 
