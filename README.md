@@ -42,28 +42,11 @@ _Digital Content Officer / Digital Marketing Executive_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Attention to detail
 During my time working as a data analyst at Dusted, I was tasked with the creation and maintenance of a ranking system for over 400 companies. This system tracked 28 different metrics from each company before running some fairly complicated calculations on these numbers to generate a sorting order unique to Dusted's values. Through the implementation and maintenance of this system, I was exposed to large data sets and therefore a high level of attention to detail was imperative.
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+I was included in key meetings relating to the data project during my time at Dusted. By communicating with the developers and designers I was involved in the production process of the benchmarking system front end, and involved in decisions about how to display the stored information.
 
 ## Education
 
