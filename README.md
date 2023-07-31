@@ -19,6 +19,7 @@ After completing my time at Makers Academy, my goal is to change into a career i
 ## Work Experience
 
 **Makers Academy** (April 2023 - July 2023)
+
 Working in a team to create a music suggestion web application using the MERN stack. Developing familiarity with React.js and Javascript principles and building on this familiarity to create a feature-full web application.
 Key responsibilities:
 Fetching Ticketmaster API data and displaying on the front end through react components
@@ -26,14 +27,18 @@ Handling complex merge conflicts when pulling multiple development branches into
 User account creation and log-in authentication in the back end
 
 **Dusted Design** (March 2022 - April 2023)
+
 _Digital Marketing Analyst_
+
 - Creating and maintaining a benchmark system that ranks companies within a sector based on their digital presence, including social media and SEO activities.
 - Using Python to scrape websites for relevant data to be implemented into the benchmark system.
 - Analysing digital marketing performance using SEO tools such as SEMRush, Moz, Google Analytics, and Google Search Console.
 - Researching and creating content briefs for supplied key topics.
 
 **Dusted Design** March 2019 - March 2023
+
 _Digital Content Officer / Digital Marketing Executive_
+
 - Ensuring all content is integrated into sites appropriately, with high attention to detail to make sure there are no mistakes or issues with spelling and formatting.
 - Creating, monitoring, and updating ad campaigns through Google AdWords and reporting on the results of these ad campaigns.
 - Managing SEO activities with Moz, Google Analytics, SEMRush, and Google Search Console.
