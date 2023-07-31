@@ -12,7 +12,9 @@ After completing my time at Makers Academy, my goal is to change into a career i
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **placeholder**            | A webapp to do x. | React, Jest, etc. |
+| **Gig Guru - Music event recommendations
+https://github.com/aliceswood/gig-guru
+**            | A webapp to do x. | React, Jest, etc. |
 | **placeholder** | A webapp to do y. | Ruby              |
 
 ## Work Experience
