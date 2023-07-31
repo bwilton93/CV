@@ -12,9 +12,7 @@ After completing my time at Makers Academy, my goal is to change into a career i
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Gig Guru - Music event recommendations
-https://github.com/aliceswood/gig-guru
-**            | A webapp to do x. | React, Jest, etc. |
+| **Gig Guru - Music event recommendations https://github.com/aliceswood/gig-guru ** | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
 | **placeholder** | A webapp to do y. | Ruby              |
 
 ## Work Experience
